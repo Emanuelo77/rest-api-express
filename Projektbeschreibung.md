@@ -44,4 +44,3 @@ Anfragen der Nutzer speichern und ausgeben
 Optionale Anforderungen
 Fehlerbehandlung
 Dokumentation
-Tests
